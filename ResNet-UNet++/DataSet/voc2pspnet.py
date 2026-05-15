@@ -1,8 +1,8 @@
 import os
 import random 
  
-segfilepath=r'D:\WY\deep-learning-master\ResNet-UNet++\DataSet\DataSet\SegmentationClass'
-saveBasePath=r"D:\WY\deep-learning-master\ResNet-UNet++\DataSet\DataSet\ImageSets\Segmentation"
+segfilepath=r'D:\deep-learning-master\ResNet-UNet++\DataSet\DataSet\SegmentationClass'
+saveBasePath=r"D:\deep-learning-master\ResNet-UNet++\DataSet\DataSet\ImageSets\Segmentation"
  
 trainval_percent = 1
 train_percent = 0.8
