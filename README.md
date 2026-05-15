@@ -48,10 +48,14 @@ python predict.py
 ```
 
 ## 项目声明 Project Statement
+
 本项目的作者及单位:
 The author and affiliation of this project:
+
+```bash
 项目名称(Project Name):SegMaster
 目者 (Author) : Yu Wang
 作者单位 (Affiliation):暨南大学网络空间安全学院(college of cyber Security,Jinan University)
+```
 
 
