@@ -54,7 +54,7 @@ The author and affiliation of this project:
 
 ```bash
 项目名称(Project Name):SegMaster
-目者 (Author) : Yu Wang
+目者 (Author) : Yu Wang, Jilian Zhang
 作者单位 (Affiliation):暨南大学网络空间安全学院(college of cyber Security,Jinan University)
 ```
 
