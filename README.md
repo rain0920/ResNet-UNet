@@ -1,6 +1,6 @@
 # 项目描述 Project Description
 
-这是一个基于 ResNet 骨干网络并结合 UNet++ 架构的深度学习图像分割项目，支持多种网络架构，包括 UNet、UNet++、DeepLabV3、SegNet 和 FCN。
+这是一个基于 ResNet 骨干网络并结合 UNet++ 架构的小麦倒伏图像分割项目，支持多种网络架构，包括 UNet、UNet++、DeepLabV3、SegNet 和 FCN。
 A deep learning image segmentation project based on ResNet backbone combined with UNet++ architecture, supporting multiple network architectures including UNet, UNet++, DeepLabV3, SegNet, and FCN.
 
 ## 特征 Features
